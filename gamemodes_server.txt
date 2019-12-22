@@ -1,5 +1,5 @@
 // DO NOT MODIFY THIS FILE
-// 
+//
 // ownTo customize your server, see gamemodes_server.txt.example
 
 
@@ -48,17 +48,17 @@
 					"mapgroupsSP"
 					{
 						"random_classic"	"0"
-						
+
                         //Operation Maps Here
-						"mg_cs_cruise"		"1"    
-						"mg_de_coast"		"2"   
-						"mg_de_empire"		"3"   
-						"mg_de_mikla"		"4" 
-						"mg_de_nuke"		"5"   
-						"mg_de_royal"		"6"   
-						"mg_de_santorini"	"7"   
-						"mg_de_tulip"		"8"   						
-						
+						"mg_cs_cruise"		"1"
+						"mg_de_coast"		"2"
+						"mg_de_empire"		"3"
+						"mg_de_mikla"		"4"
+						"mg_de_nuke"		"5"
+						"mg_de_royal"		"6"
+						"mg_de_santorini"	"7"
+						"mg_de_tulip"		"8"
+
 						//active maps
                         "mg_de_dust2"		"9"
 						"mg_de_train"		"10"
@@ -67,7 +67,7 @@
 						"mg_de_cbble"		"13"
 						"mg_de_overpass"	"14"
 						"mg_de_cache"	    "15"
-						
+
                         //inactive maps
 						"mg_de_aztec"		"16"
 						"mg_de_dust"		"17"
@@ -88,7 +88,7 @@
 						"mg_reserves"		"2"
 					}
 				}
-	
+
 				"competitive"
 				{
 					"value"			  	"1"
@@ -102,7 +102,7 @@
 					"show_rich_presence_map_game"  "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
 					"show_rich_presence_map_watch" "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
 					"show_rich_presence_map_review" "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
-				
+
 					// These are the descriptive ui elements to display in the information box on.
 					// These key/values should be pairs of strings.  The "key" will appear in the left
 					// column, the "value" will appear in the right column.
@@ -122,22 +122,22 @@
 						"exec" "gamemode_competitive.cfg"
 						"exec" "gamemode_competitive_server.cfg"
 					}
-					
+
 					// Map groups for offline modes
 					"mapgroupsSP"
 					{
 						"random_classic"	"0"
-						
+
                         //Operation Maps Here
-						"mg_cs_cruise"		"1"    
-						"mg_de_coast"		"2"   
-						"mg_de_empire"		"3"   
-						"mg_de_mikla"		"4" 
-						"mg_de_nuke"		"5"  
-						"mg_de_royal"		"6"   
-						"mg_de_santorini"	"7"   
-						"mg_de_tulip"		"8"   	      
-						
+						"mg_cs_cruise"		"1"
+						"mg_de_coast"		"2"
+						"mg_de_empire"		"3"
+						"mg_de_mikla"		"4"
+						"mg_de_nuke"		"5"
+						"mg_de_royal"		"6"
+						"mg_de_santorini"	"7"
+						"mg_de_tulip"		"8"
+
 						//active maps
                         "mg_de_dust2"		"9"
 						"mg_de_train"		"10"
@@ -146,7 +146,7 @@
 						"mg_de_cbble"		"13"
 						"mg_de_overpass"	"14"
 						"mg_de_cache"	    "15"
-						
+
                         //inactive maps
 						"mg_de_aztec"		"16"
 						"mg_de_dust"		"17"
@@ -162,15 +162,15 @@
 					{
                         // Original Comp Mapgroup
                         //Operation Maps Here
-						"mg_cs_cruise"		"0"     
-						"mg_de_coast"		"1"  	
-						"mg_de_empire"		"2" 
-						"mg_de_mikla"		"3"  
-						"mg_de_nuke"		"4" 
-						"mg_de_royal"		"5"  
-						"mg_de_santorini"	"6"  
-						"mg_de_tulip"		"7"  						
-						
+						"mg_cs_cruise"		"0"
+						"mg_de_coast"		"1"
+						"mg_de_empire"		"2"
+						"mg_de_mikla"		"3"
+						"mg_de_nuke"		"4"
+						"mg_de_royal"		"5"
+						"mg_de_santorini"	"6"
+						"mg_de_tulip"		"7"
+
 						//active maps
                         "mg_de_dust2"		"8"
 						"mg_de_train"		"9"
@@ -179,7 +179,7 @@
 						"mg_de_cbble"		"12"
 						"mg_de_overpass"	"13"
 						"mg_de_cache"	    "14"
-						
+
                         //inactive maps
 						"mg_de_aztec"		"15"
 						"mg_de_dust"		"16"
@@ -192,7 +192,7 @@
 				}
 			}
 		}
-		
+
 		"gungame"
 		{
 			"value"				"1"
@@ -227,7 +227,7 @@
 						"exec" "gamemode_armsrace.cfg"
 						"exec" "gamemode_armsrace_server.cfg"
 					}
-					
+
 					// Map groups for offline modes
 					"mapgroupsSP"
 					{
@@ -270,7 +270,7 @@
 						"elite"			{ "kills"	"2" }
 						"knifegg"			{ "kills"	"1" }
 					}
-					
+
 					"weaponprogression_t"
 					{
 						"bizon"			{ "kills"	"2" }
@@ -359,7 +359,7 @@
 						"awp"			{ "kills"	"1" }
 						"Scar20"		{ "kills"	"1" }
 					}
-					
+
 					"weaponprogression_t"
 					{
 						"ak47"			{ "kills"	"1" }
@@ -407,17 +407,17 @@
 					"mapgroupsSP"
 					{
 						"random_classic"	"0"
-						
+
                         //Operation Maps Here
-						"mg_cs_cruise"		"1"    
-						"mg_de_coast"		"2"   
-						"mg_de_empire"		"3"   
-						"mg_de_mikla"		"4"  
+						"mg_cs_cruise"		"1"
+						"mg_de_coast"		"2"
+						"mg_de_empire"		"3"
+						"mg_de_mikla"		"4"
 						"mg_de_nuke"		"5"
-						"mg_de_royal"		"6"   
-						"mg_de_santorini"	"7"   
-						"mg_de_tulip"		"8"   	   
-						
+						"mg_de_royal"		"6"
+						"mg_de_santorini"	"7"
+						"mg_de_tulip"		"8"
+
 						//active maps
                         "mg_de_dust2"		"9"
 						"mg_de_train"		"10"
@@ -426,7 +426,7 @@
 						"mg_de_cbble"		"13"
 						"mg_de_overpass"	"14"
 						"mg_de_cache"	    "15"
-						
+
                         //inactive maps
 						"mg_de_aztec"		"16"
 						"mg_de_dust"		"17"
@@ -435,7 +435,7 @@
                         "mg_cs_italy"		"20"
                         "mg_cs_assault"    	"21"
                         "mg_cs_militia"	    "22"
-						
+
 						"mg_de_bank"		"23"
 						"mg_de_lake"		"24"
 						"mg_de_safehouse"	"25"
@@ -464,13 +464,13 @@
 				}
 			}
 		}
-        
+
 		"training"
 		{
 			"value"				"2"
 			"nameID"			"#SFUI_GameTypeFreestyle"
 			"singleplayeronly"	"1"
-	
+
 			"gameModes"
 			{
 				"training"
@@ -482,7 +482,7 @@
 					"showdisclaimer"	"1"
 					"uid"				"21"
 					"maxplayers"		"1"
-	
+
 					// These are the descriptive ui elements to display in the information box on.
 					// These key/values should be pairs of strings.  The "key" will appear in the left
 					// column, the "value" will appear in the right column.
@@ -495,7 +495,7 @@
 						"4"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
 						// Bot data is determined by user selection.
 					}
-	
+
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
@@ -516,7 +516,7 @@
 		{
 			"value"				"3"
 			"nameID"			"#SFUI_GameTypeCustom"
-	
+
 			"gameModes"
 			{
 				"custom"
@@ -528,7 +528,7 @@
 					"showdisclaimer"	"1"
 					"uid"				"30"
 					"maxplayers"		"100"
-	
+
 					// These are the descriptive ui elements to display in the information box on.
 					// These key/values should be pairs of strings.  The "key" will appear in the left
 					// column, the "value" will appear in the right column.
@@ -541,7 +541,7 @@
 						"4"		{ "label" "#SFUI_SpectateColon"			"value" "#SFUI_SpectateAnyone" }
 						// Bot data is determined by user selection.
 					}
-	
+
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
@@ -554,7 +554,7 @@
 		{
 			"value"				"4"
 			"nameID"			"#SFUI_GameTypeCooperative"
-	
+
 			"gameModes"
 			{
 				"cooperative"
@@ -563,7 +563,7 @@
 					"nameID"			"#SFUI_GameModeCooperative"
 					"descID"			"#SFUI_GameModeCooperativeDesc"
 					"maxplayers"		"10"
-	
+
 					"show_rich_presence_map_game"  "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
 					"show_rich_presence_map_watch" "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
 					"show_rich_presence_map_review" "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
@@ -571,7 +571,7 @@
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
-						"exec" "gamemode_competitive.cfg" 
+						"exec" "gamemode_competitive.cfg"
 						"exec" "gamemode_cooperative.cfg"
 						"exec" "gamemode_cooperative_server.cfg"
 					}
@@ -582,7 +582,7 @@
 					"nameID"			"#SFUI_GameModeCoopMission"
 					"descID"			"#SFUI_GameModeCooperativeDesc"
 					"maxplayers"		"10"
-	
+
 					"show_rich_presence_map_game"  "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
 					"show_rich_presence_map_watch" "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
 					"show_rich_presence_map_review" "#SFUI_Lobby_StatusRichPresenceSeparator_classic_competitive"
@@ -590,7 +590,7 @@
 					// These are the configs that get executed when a game mode of this type is created
 					"exec"
 					{
-						"exec" "gamemode_competitive.cfg" 
+						"exec" "gamemode_competitive.cfg"
 						"exec" "gamemode_coopmission.cfg"
 						"exec" "gamemode_coopmission_server.cfg"
 					}
@@ -601,11 +601,11 @@
 
 	"mapgroups"
 	{
-		// 
+		//
 		// Map cycle groups
         // add operation group here is active
 		// Operation 07
-		
+
 		"mg_op_op07"
 		{
 			"imagename"		   		"mapgroup-op07"
@@ -631,9 +631,9 @@
                 "de_nuke"			""
 			}
 		}
-		
+
 		// Operation 06
-		
+
 		"mg_op_op06"
 		{
 			"imagename"		   		"mapgroup-op06"
@@ -646,7 +646,7 @@
 			"grouptype"     		"op_op06"
 			"maps"
 			{
-                "de_rails"			""               
+                "de_rails"			""
 				"de_resort"			""
                 "de_zoo"			""
                 "de_log"			""
@@ -654,7 +654,7 @@
                 "cs_agency"			""
 			}
 		}
-		
+
 		// Operation Vanguard
 		"mg_op_op05"
 		{
@@ -668,7 +668,7 @@
 			"grouptype"     		"op_op05"
 			"maps"
 			{
-                "de_train"			""               
+                "de_train"			""
 				"cs_workout"			""
                 "cs_backalley"		""
                 "de_marquis"			""
@@ -677,7 +677,7 @@
                 "de_bazaar"			""
 			}
 		}
-		
+
 		// operation breakout
 		"mg_op_breakout"
 		{
@@ -690,7 +690,7 @@
 			"show_rich_presence"    "_breakout"
       "grouptype"     "op_breakout"
 			"maps"
-			{     
+			{
                 "de_castle"         ""
                 "de_overgrown"		""
 				"de_blackgold"		""
@@ -698,8 +698,8 @@
 				"cs_rush"		    ""
 				"cs_insertion"		""
 			}
-		}				
-     
+		}
+
         "mg_active"
 		{
 			"imagename"		        "mapgroup-active"
@@ -716,10 +716,10 @@
                 "de_inferno"	""
                 "de_cbble"		""
                 "de_overpass"	""
-                "de_cache"	    ""        
+                "de_cache"	    ""
 			}
 		}
-        
+
        "mg_reserves"
 		{
 			"imagename"		        "mapgroup-reserves"
@@ -736,7 +736,7 @@
                 "cs_office"     ""
                 "cs_italy"		""
                 "cs_assault"    ""
-                "cs_militia"	""     
+                "cs_militia"	""
                 "de_dust2"              ""
                 "de_train"              ""
                 "de_mirage"             ""
@@ -744,17 +744,15 @@
                 "de_cbble"              ""
                 "de_overpass"   ""
                 "de_cache"          ""
-                "de_nuke"               ""		
-                "ar_monastery"  ""
+                "de_nuke"               ""
                 "ar_shoots"             ""
-                "ar_baggage"            ""               
+                "ar_baggage"            ""
                 "de_lake"               ""
                 "de_stmarc"             ""
                 "de_sugarcane"          ""
                 "de_bank"               ""
                 "de_safehouse"          ""
-                "de_shortdust"          ""
-                "de_shorttrain"         ""
+                "de_canals"          ""
 	}
 		}
 
@@ -828,7 +826,7 @@
 				"de_shorttrain"		""
 			}
 		}
-        
+
 // not used currently
 //       "mg_hostage"
 //		{
@@ -865,23 +863,23 @@
 //			}
 //		}
 // end of not used currently
-			
+
 		//
 		// Single map groups
 		//
 
-		"mg_de_dust"		
+		"mg_de_dust"
 		{
 			"imagename"		"map-dust-overall"
 			"nameID"		"#SFUI_Map_de_dust"
 			"tooltipID"		"#SFUI_Map_Tooltip_Desc_Reserves"
-			"name"			"mg_de_dust"	
+			"name"			"mg_de_dust"
 			"icontag"		"bomb"
             "grouptype"     "reserves"
 			"maps"
 			{
 				"de_dust"		""
-			}	
+			}
 		}
 
 		"mg_de_dust2"
@@ -939,7 +937,7 @@
 				"de_mirage"		""
 			}
 		}
-		
+
 		"mg_de_vertigo"
 		{
 			"imagename"		"map-vertigo-overall"
@@ -953,7 +951,7 @@
 				"de_vertigo"		""
 			}
 		}
-		
+
 		"mg_cs_italy"
 		{
 			"imagename"		"map-italy-overall"
@@ -981,7 +979,7 @@
 				"cs_office"		""
 			}
 		}
-        
+
         "mg_cs_militia"
 		{
 			"imagename"		"map-militia-overall"
@@ -995,7 +993,7 @@
 				"cs_militia"		""
 			}
 		}
-        
+
        	"mg_cs_assault"
 		{
 			"imagename"		"map-assault-overall"
@@ -1009,7 +1007,7 @@
 				"cs_assault"		""
 			}
 		}
-     
+
        	"mg_de_overpass"
 		{
 			"imagename"		"map-overpass-overall"
@@ -1022,7 +1020,7 @@
 			{
 				"de_overpass"		""
 			}
-		}	 
+		}
 
        	"mg_de_cbble"
 		{
@@ -1037,7 +1035,7 @@
 				"de_cbble"		""
 			}
 		}
-		
+
 		"mg_de_train"
 		{
 			"imagename"		"map-train-overall"
@@ -1297,7 +1295,7 @@
 				"de_tulip"		""
 			}
 		}
-		
+
 		//Operation 06
 		"mg_de_rails"
 		{
@@ -1317,7 +1315,7 @@
 				"de_rails"		""
 			}
 		}
-		
+
 		"mg_de_resort"
 		{
 			"imagename"		"map-resort-overall"
@@ -1336,7 +1334,7 @@
 				"de_resort"		""
 			}
 		}
-		
+
 		"mg_de_zoo"
 		{
 			"imagename"		"map-zoo-overall"
@@ -1355,7 +1353,7 @@
 				"de_zoo"		""
 			}
 		}
-		
+
 		"mg_de_log"
 		{
 			"imagename"		"map-log-overall"
@@ -1374,7 +1372,7 @@
 				"de_log"		""
 			}
 		}
-		
+
 		"mg_de_season"
 		{
 			"imagename"		"map-season-overall"
@@ -1393,7 +1391,7 @@
 				"de_season"		""
 			}
 		}
-		
+
 		"mg_cs_agency"
 		{
 			"imagename"		"map-agency-overall"
@@ -1412,10 +1410,10 @@
 			{
 				"cs_agency"		""
 			}
-		}	
-		
+		}
+
 		//Operation Vanguard
-		
+
         "mg_cs_workout"
 		{
 			"imagename"		"map-workout-overall"
@@ -1510,7 +1508,7 @@
 				"de_bazaar"		""
 			}
 		}
-		
+
 		//Operation Breakout
         "mg_de_castle"
 		{
@@ -1529,7 +1527,7 @@
 				"de_castle"		""
 			}
 		}
-  
+
          "mg_de_overgrown"
 		{
 			"imagename"		"map-overgrown-overall"
@@ -1547,7 +1545,7 @@
 				"de_overgrown"		""
 			}
 		}
-  
+
          "mg_de_blackgold"
 		{
 			"imagename"		"map-blackgold-overall"
@@ -1565,7 +1563,7 @@
 				"de_blackgold"		""
 			}
 		}
-  
+
          "mg_cs_rush"
 		{
 			"imagename"		"map-rush-overall"
@@ -1583,7 +1581,7 @@
 				"cs_rush"		""
 			}
 		}
-  
+
           "mg_de_mist"
 		{
 			"imagename"		"map-mist-overall"
@@ -1601,7 +1599,7 @@
 				"de_mist"		""
 			}
 		}
-  
+
            "mg_cs_insertion"
 		{
 			"imagename"		"map-insertion-overall"
@@ -1618,7 +1616,7 @@
 				"cs_insertion"		""
 			}
 		}
-  
+
         //Operation Pheonix maps
         "mg_de_cache"
 		{
@@ -1633,7 +1631,7 @@
 				"de_cache"		""
 			}
 		}
-        
+
         "mg_de_ali"
 		{
 			"imagename"		"map-ali-overall"
@@ -1641,13 +1639,13 @@
 			"name"			"mg_de_ali"
 			"icontag"		"bomb"
 			"show_season_icon"     	"season_2"
-			
+
 			"maps"
 			{
 				"de_ali"		""
 			}
 		}
-        
+
         "mg_de_seaside"
 		{
 			"imagename"		"map-seaside-overall"
@@ -1660,7 +1658,7 @@
 				"de_seaside"		""
 			}
 		}
-        
+
         "mg_cs_thunder"
 		{
 			"imagename"		"map-thunder-overall"
@@ -1673,7 +1671,7 @@
 				"cs_thunder"		""
 			}
 		}
-		
+
 		"mg_de_favela"
 		{
 			"imagename"		"map-favela-overall"
@@ -1725,7 +1723,7 @@
 				"de_gwalior"		""
 			}
 		}
-        
+
         "mg_de_chinatown"
 		{
 			"imagename"		"map-chinatown-overall"
@@ -1738,7 +1736,7 @@
 				"de_chinatown"		""
 			}
 		}
-        
+
         "mg_cs_siege"
 		{
 			"imagename"		"map-siege-overall"
@@ -1751,7 +1749,7 @@
 				"cs_siege"		""
 			}
 		}
-        
+
         "mg_cs_museum"
 		{
 			"imagename"		"map-museum-overall"
@@ -1764,7 +1762,7 @@
 				"cs_museum"		""
 			}
 		}
-        
+
 		"mg_de_library"
 		{
 			"imagename"		"map-library-overall"
@@ -1777,7 +1775,7 @@
 				"de_library"		""
 			}
 		}
-        
+
         "mg_de_ruins"
 		{
 			"imagename"		"map-ruins-overall"
@@ -1790,9 +1788,9 @@
 				"de_ruins"		""
 			}
 		}
-        
+
         //end old operation Maps
-		
+
 		"mg_ar_baggage"
 		{
 			"imagename"		"map-baggage-overall"
@@ -1938,7 +1936,7 @@
 				"de_shortdust"		""
 			}
 		}
-		
+
 		"mg_training1"
 		{
 			"imagename"		"map-alleyway-overall"
@@ -1960,7 +1958,7 @@
 				//Empty
 			}
 		}
-		
+
 		"random_demo"
 		{
 			"nameID"			"#SFUI_Map_random"
@@ -1971,7 +1969,7 @@
 				//Empty
 			}
 		}
-		
+
 		"random_classic"
 		{
 			"nameID"			"#SFUI_Map_random"
@@ -2023,7 +2021,7 @@
 				"models/hostage/hostage_variantC.mdl"	""
 			}
 		}
-	
+
 		"cs_office"
 		{
 			"nameID"			"#SFUI_Map_cs_office"
@@ -2057,7 +2055,7 @@
 				"models/hostage/hostage_variantC.mdl"	""
 			}
 		}
- 	
+
 		"cs_militia"
 		{
 			"nameID"			"#SFUI_Map_cs_militia"
@@ -2091,7 +2089,7 @@
 				"models/hostage/hostage_variantC.mdl"	""
 			}
 		}
-        
+
         "cs_assault"
 		{
 			"nameID"			"#SFUI_Map_cs_assault"
@@ -2118,7 +2116,7 @@
 				"ctm_fbi_variantD"	""
 			}
 		}
-	
+
 		"de_aztec"
 		{
 			"nameID"			"#SFUI_Map_de_aztec"
@@ -2145,7 +2143,7 @@
 				"ctm_st6_variantD"	""
 			}
 		}
-		
+
 		"de_train"
 		{
 			"nameID"			"#SFUI_Map_de_train"
@@ -2172,7 +2170,7 @@
 				"ctm_st6_variantD"	""
 			}
 		}
-	
+
 		"de_dust"
 		{
 			"nameID"			"#SFUI_Map_de_dust"
@@ -2199,7 +2197,7 @@
 				"ctm_idf_variantE"	""
 			}
 		}
-		
+
 		"de_dust2"
 		{
 			"nameID"			"#SFUI_Map_de_dust2"
@@ -2226,7 +2224,7 @@
 				"ctm_idf_variantE"	""
 			}
 		}
-	
+
 		"de_inferno"
 		{
 			"nameID"			"#SFUI_Map_de_inferno"
@@ -2246,7 +2244,7 @@
 			"ct_arms"			"models/weapons/ct_arms_sas.mdl"
 			"ct_models"
 			{
-				
+
 				"ctm_sas"		""
 				"ctm_sas_variantA"	""
 				"ctm_sas_variantB"	""
@@ -2281,7 +2279,7 @@
 				"ctm_sas_variantD"	""
 			}
 		}
-		
+
 		"de_nuke"
 		{
 			"nameID"			"#SFUI_Map_de_nuke"
@@ -2312,7 +2310,7 @@
 				"ctm_st6_variantD"	""
 			}
 		}
-		
+
 		"de_vertigo"
 		{
 			"nameID"			"#SFUI_Map_de_vertigo"
@@ -2339,7 +2337,7 @@
 				"ctm_swat_variantD"	""
 			}
 		}
-		
+
 		"de_overpass"
 		{
 			"nameID"			"#SFUI_Map_de_overpass"
@@ -2366,7 +2364,7 @@
             "ctm_gsg9_variantD"   ""
 			}
 		}
-		
+
 		"de_cbble"
 		{
 			"nameID"			"#SFUI_Map_de_cbble"
@@ -2400,7 +2398,7 @@
 			"name"				"gd_cbble"
 			"imagename"			"map-cbble-overall"
 			"default_game_type"		"4" // Guardian
-			"default_game_mode"		"0" // 
+			"default_game_mode"		"0" //
 			"t_arms"			"models/weapons/t_arms_phoenix.mdl"
 			"t_models"
 			{
@@ -2427,7 +2425,7 @@
 			"name"				"gd_lake"
 			"imagename"			"map-boathouse-overall"
 			"default_game_type"		"4" // Guardian
-			"default_game_mode"		"0" // 
+			"default_game_mode"		"0" //
 			"t_arms"			"models/weapons/t_arms_phoenix.mdl"
 			"t_models"
 			{
@@ -2454,7 +2452,7 @@
 			"name"				"gd_bank"
 			"imagename"			"map-bank-overall"
 			"default_game_type"		"4" // Guardian
-			"default_game_mode"		"0" // 
+			"default_game_mode"		"0" //
 			"t_arms"			"models/weapons/t_arms_professional.mdl"
 			"t_models"
 			{
@@ -2482,7 +2480,7 @@
 			"name"				"gd_sugarcane"
 			"imagename"			"map-mill-overall"
 			"default_game_type"		"4" // Guardian
-			"default_game_mode"		"0" // 
+			"default_game_mode"		"0" //
 			"t_arms"			"models/weapons/t_arms_pirate.mdl"
 			"t_models"
 			{
@@ -2509,7 +2507,7 @@
 			"name"				"gd_crashsite"
 			"imagename"			"map-crashsite-overall"
 			"default_game_type"		"4" // Guardian
-			"default_game_mode"		"0" // 
+			"default_game_mode"		"0" //
 			"t_arms"			"models/weapons/t_arms.mdl"
 			"t_models"
 			{
@@ -2535,7 +2533,7 @@
 			"nameID"			"#SFUI_Map_coop_cementplant"
 			"name"				"coop_cementplant"
 			"imagename"			"map-cementplant-overall"
-			"default_game_type"		"4" // Coop 
+			"default_game_type"		"4" // Coop
 			"default_game_mode"		"1" // Mission
 			"t_arms"			"models/weapons/t_arms_phoenix.mdl"
 			"t_models"
@@ -2560,7 +2558,7 @@
         //
         //operation maps
         //
-		
+
 		"cs_cruise"
 		{
 			"nameID"			"#SFUI_Map_cs_cruise"
@@ -2591,7 +2589,7 @@
 				"ctm_st6_variantD"	""
 			}
 		}
-		
+
 		"de_coast"
 		{
 			"nameID"			"#SFUI_Map_de_coast"
@@ -2777,11 +2775,11 @@
 				"ctm_sas"		""
 			}
 		}
-		
+
 		//
         //old operation maps
         //
-		
+
 		"de_rails"
 		{
 			"nameID"			"#SFUI_Map_de_rails"
@@ -2809,7 +2807,7 @@
 				"ctm_fbi_variantD"	""
 			}
 		}
-		
+
 		"de_zoo"
 		{
 			"nameID"			"#SFUI_Map_de_zoo"
@@ -2837,7 +2835,7 @@
 				"ctm_swat_variantD"	""
 			}
 		}
-		
+
 		"de_log"
 		{
 			"nameID"			"#SFUI_Map_de_log"
@@ -2893,7 +2891,7 @@
 				"ctm_gign_variantD"	""
 			}
 		}
-		
+
 		"de_season"
 		{
 			"nameID"			"#SFUI_Map_de_season"
@@ -2921,7 +2919,7 @@
 				"ctm_sas"		""
 			}
 		}
-		
+
 		"cs_agency"
 		{
 			"nameID"			"#SFUI_Map_cs_agency"
@@ -2949,7 +2947,7 @@
 				"ctm_fbi_variantD"	""
 			}
 		}
-		 
+
 
 		"cs_workout"
 		{
@@ -3090,7 +3088,7 @@
 				"ctm_sas"		""
 			}
 		}
-		
+
 		"de_castle"
 		{
 			"nameID"			"#SFUI_Map_de_castle"
@@ -3119,7 +3117,7 @@
 				"ctm_sas_variantE"	""
 			}
 		}
- 
+
 		"de_overgrown"
 		{
 			"nameID"			"#SFUI_Map_de_overgrown"
@@ -3148,7 +3146,7 @@
 				"ctm_sas_variantE"	""
 			}
 		}
- 
+
 		"de_blackgold"
 		{
 			"nameID"			"#SFUI_Map_de_blackgold"
@@ -3176,7 +3174,7 @@
 				"ctm_st6_variantD"	""
 			}
 		}
- 
+
  		"cs_rush"
 		{
 			"nameID"			"#SFUI_Map_cs_rush"
@@ -3205,7 +3203,7 @@
 				"ctm_sas_variantE"	""
 			}
 		}
- 
+
  		"de_mist"
 		{
 			"nameID"			"#SFUI_Map_de_mist"
@@ -3233,7 +3231,7 @@
 				"ctm_st6_variantD"	""
 			}
 		}
- 
+
 		"cs_insertion"
 		{
 			"nameID"			"#SFUI_Map_cs_insertion"
@@ -3261,7 +3259,7 @@
 				"ctm_st6_variantD"	""
 			}
 		}
-		
+
 		"de_cache"
 		{
 			"nameID"			"#SFUI_Map_de_cache"
@@ -3288,7 +3286,7 @@
 				"ctm_gign_variantD"	""
 			}
 		}
-        
+
         "de_ali"
 		{
 			"nameID"			"#SFUI_Map_de_ali"
@@ -3315,7 +3313,7 @@
 				"ctm_sas"		""
 			}
 		}
-        
+
         "de_seaside"
 		{
 			"nameID"			"#SFUI_Map_de_seaside"
@@ -3369,7 +3367,7 @@
 				"ctm_fbi_variantD"	""
 			}
 		}
-        
+
         "de_favela"
 		{
 			"nameID"			"#SFUI_Map_de_favela"
@@ -3396,7 +3394,7 @@
 				"ctm_st6_variantD"	""
 			}
 		}
-		
+
 		"cs_motel"
 		{
 			"nameID"			"#SFUI_Map_cs_motel"
@@ -3423,9 +3421,9 @@
 				"ctm_swat_variantD"	""
 			}
 		}
-        
 
-        
+
+
         "de_gwalior"
 		{
 			"nameID"			"#SFUI_Map_de_gwalior"
@@ -3452,7 +3450,7 @@
 				"ctm_sas"		""
 			}
 		}
-        
+
         "de_ruins"
 		{
 			"nameID"			"#SFUI_Map_de_ruins"
@@ -3506,7 +3504,7 @@
 				"ctm_swat_variantD"	""
 			}
 		}
-        
+
         "cs_siege"
 		{
 			"nameID"			"#SFUI_Map_cs_siege"
@@ -3533,7 +3531,7 @@
 				"ctm_swat_variantD"	""
 			}
 		}
-        
+
         "de_library"
 		{
 			"nameID"			"#SFUI_Map_de_library"
@@ -3560,7 +3558,7 @@
 				"ctm_gsg9_variantD"	""
 			}
 		}
-        
+
         "cs_museum"
 		{
 			"nameID"			"#SFUI_Map_cs_museum"
@@ -3587,7 +3585,7 @@
 				"ctm_fbi_variantD"	""
 			}
 		}
-				
+
 		//
 		// Gun Game Maps
 		//
@@ -3618,7 +3616,7 @@
 				"ctm_gsg9_variantD"	""
 			}
 		}
-		
+
 		"ar_shoots"
 		{
 			"nameID"			"#SFUI_Map_ar_shoots"
@@ -3645,7 +3643,7 @@
 				"ctm_gign_variantD"	""
 			}
 		}
-		
+
 		"ar_monastery"
 		{
 			"nameID"			"#SFUI_Map_ar_monastery"
@@ -3863,7 +3861,7 @@
 				"ctm_idf_variantE"	""
 			}
 		}
-		
+
 		//
 		// Random Map
 		//
@@ -3894,7 +3892,7 @@
 			"extraspectators"	"2"
 			"imagename"			"map-alleyway-overall"
 			"default_game_type"		"2" // Training
-			"default_game_mode"		"0" // 
+			"default_game_mode"		"0" //
 			"t_arms"			"models/weapons/t_arms_phoenix.mdl"
 			"t_models"
 			{
@@ -3907,7 +3905,7 @@
 			}
 		}
 	}
-	
+
 	"botDifficulty"
 	{
 		"none"
@@ -3922,7 +3920,7 @@
 				"bot_quota"				"0"
 			}
 		}
-		
+
 		"dumb"
 		{
 			"nameID" "#SFUI_BotDifficulty1"
@@ -3934,7 +3932,7 @@
 				"bot_dont_shoot"		"1"
 			}
 		}
-		
+
 		"easy"
 		{
 			"nameID" "#SFUI_BotDifficulty2"
@@ -3946,7 +3944,7 @@
 				"bot_dont_shoot"		"0"
 			}
 		}
-		
+
 		"medium"
 		{
 			"nameID" "#SFUI_BotDifficulty3"
@@ -3958,7 +3956,7 @@
 				"bot_dont_shoot"		"0"
 			}
 		}
-		
+
 		"hard"
 		{
 			"nameID" "#SFUI_BotDifficulty4"
@@ -3970,7 +3968,7 @@
 				"bot_dont_shoot"		"0"
 			}
 		}
-		
+
 		"expert"
 		{
 			"nameID" "#SFUI_BotDifficulty5"
@@ -3983,7 +3981,7 @@
 			}
 		}
 	}
-	
+
 	"mpSessionVisibility"
 	{
 		"public"
@@ -3992,7 +3990,7 @@
 			"value" "0"
 			"matchmakingvalue" "public"
 		}
-		
+
 		"private"
 		{
 			"nameID" "#SFUI_SessionVisibilityPrivate"
@@ -4008,7 +4006,7 @@
 			"nameID" "#SFUI_BombMap"
 			"imagename" "icon-overview-bomb"
 		}
-		
+
 		"cs_"
 		{
 			"nameID" "#SFUI_HostageMap"
@@ -4020,7 +4018,7 @@
 			"nameID" "#SFUI_GunGameProgressiveMap"
 			"imagename" "icon-overview-progressive"
 		}
-		
+
 		"gungametrbomb"
 		{
 			"nameID" "#SFUI_GunGameTRMap"
@@ -4032,7 +4030,7 @@
 			"nameID" "#SFUI_TrainingSelectMap"
 			"imagename" "icon-overview-select"
 		}
-				
+
 		"unknown"
 		{
 			"nameID" "?"
