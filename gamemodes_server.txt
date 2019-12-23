@@ -78,6 +78,13 @@
                 "de_dust2"   ""
                 "de_studio"   ""
                 "de_sugarcane"   ""
+		"de_inferno"   ""
+		"de_mirage"   ""
+		"de_nuke"   ""
+		"de_cache"   ""
+		"de_lake"   ""
+		"de_cbble"   ""
+				
             }
         }
     }
