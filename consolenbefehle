@@ -6,3 +6,5 @@ bot_kick  kickt alle Bots
 bot_add    hinzufügen von Bots
 
 bot_difficulty 5;custom_bot_difficulty 5
+
+bot_difficulty 5;bot_kick;bot_add expert;bot_add expert;bot_add expert;bot_add expert;bot_add expert;bot_add expert;bot_add expert;bot_add expert;bot_add expert
