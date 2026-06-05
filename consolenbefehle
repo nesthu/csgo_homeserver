@@ -1,0 +1,8 @@
+Runde nach X sekunden neu starten
+mp_restartgame 1
+
+Bots
+bot_kick  kickt alle Bots
+bot_add    hinzufügen von Bots
+
+bot_difficulty 5;custom_bot_difficulty 5
